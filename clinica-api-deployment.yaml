@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: clinica-api
-        image: gcr.io/clinica-399904/clinica-api:v1.1
+        image: gcr.io/clinica-399904/clinica-api:v1.3
         resources:
           requests:
             memory: "60Mi"
